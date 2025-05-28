@@ -27,3 +27,5 @@ t.co
 cdn.taboola.com
 analytics.twitter.com
 pagead2.googlesyndication.com
+js.trendmd.com
+aax-us-pdx.amazon-adsystem.com
