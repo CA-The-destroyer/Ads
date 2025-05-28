@@ -4,3 +4,7 @@ pagead2.googlesyndication.com
 www.googletagmanager.com
 csi.gstatic.com
 cdn.onesignal.com
+scripts.pubnation.com
+googlesyndication.com
+m.media-amazon.com
+doubleverify.com
